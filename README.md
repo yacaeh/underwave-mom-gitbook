@@ -1,55 +1,7 @@
----
-description: 언더웨이브는 어떤 서비스 인가요?
----
+# 회의록 템플릿
 
-# Underwave는?
+Keep your company's or teams' meeting notes in one place. Indexable, searchable and deep-linkable (yes, that's a word).
 
-## 왜 우리는 새로운 노래방 서비스가 필요한가?
-
-혹시 여러분은 최근 가장 인기있는 노래가 무엇인지 아시나요?
-
-아마 각자 다른 노래를 대답하거나 선뜻 대답하기 어려우실 거에요, 예전 90, 2000년대의 TV 세대와 달리 유튜브라는 플랫폼은 우리의 음악 취향을 다양하게 바꿨습니다. 획일적인 노래취향이 아닌 누구나 자기가 좋아하는 노래취향에 따라 리스너들은 진화했죠. 이제 누구도 인기가요 1위 노래가 무엇이었는지 기억조차 하지 못하는 시대가 왔습니다. 음악시장이 진화하는 동안 노래방 시장은 1980년대 이후 아직까지도 큰 변화가 없었습니다.
-
-저희는 이러한 음악시장 변화에 따라 노래방 문화도 변화가 필요하다고 생각하여 사업을 시작하게 되었습니다. 저희가 가장 크게 느꼈던 문제점들로 부터 저희 사업은 시작되었습니다.
-
-**없는 노래가 너무 많다**
-
-매달 2000곡 이상이 쏟아지는 이 음악시장에서 내가 듣는 노래가 과연 노래방에 있을까요? 내가 좋아하는 가수의 숨은 명곡, 내가 부르고싶은 애니메이션의 주제가, 내가 좋아하는 유튜버의 커버버전 노래, 우리가 원하는 곡은 노래방에 없었습니다. 노래방에 한 곡을 수록하기 위해선 500만원 이상의 비용이 들기 때문인데요, 사람이 아닌 인공지능이 이를 자동화하여제공한다면 훨씬쉽게노래를만들수있지않을까요? 
-
-![노래를 부고 싶ㅣ 노래ㅇ 버ㄴ Te가 없는 현실 찾ㅡ ㅗ 있ㅏ?](<.gitbook/assets/image (1).png>)
-
-**들고다니는 코인이 없다**
-
-현금도 안들고 다니는 마당에 동전을 들고다니는 사람이 있나요? 노래를 부르고 싶어도 코인이 없어요... 아직도 현금결제라니 2021년에 말도안되는 발상입니다.
-
-**좀 더 잘 부르는척 하고 싶다**
-
-노래방에서 열심히 불러서 녹음은 했는데 실수도 많고 원큐에 녹음이 힘들어요 ㅠㅠ 나도 가수처럼 부르고 싶은데, 이부분만 아니면 유튜브 조회수 잘 뽑힐거 같은데, 잘 못부른 부분이 있다면 언제든지 되돌아가서 반복하고, 실수에 연연해 하지 마세요. 다시 녹음하면 되니까여..\*\* \*\*안올라 가는 고음은 인공지능이 처리해 드릴게요
-
-### 노래 목록 : 곡 선택과 검색 및 곡 변환 업로드
-
-노래목록은 곡을 선택하고 재생하는 기능을 가진다.
-
-{% content-ref url="songs/list.md" %}
-[list.md](songs/list.md)
-{% endcontent-ref %}
-
-{% content-ref url="songs/upload.md" %}
-[upload.md](songs/upload.md)
-{% endcontent-ref %}
-
-{% content-ref url="songs/like.md" %}
-[like.md](songs/like.md)
-{% endcontent-ref %}
-
-### 재생 및 녹음 기능 : 가사로 이동 가능한 곡 경험과, 소절단위로 녹음
-
-인공지능을 활용한 최신기술로 노래를 단어 단위로 재생하고 Instrument 버전으로 녹음에 활
-
-{% content-ref url="play-and-record/undefined.md" %}
-[undefined.md](play-and-record/undefined.md)
-{% endcontent-ref %}
-
-{% content-ref url="play-and-record/undefined-1.md" %}
-[undefined-1.md](play-and-record/undefined-1.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+**Good to know:** GitBook is a great place to document your team's meetings, giving folks access to documentation from every meeting. This template is structured in a way that gives collaborative, open note-taking centre stage. There's no reason why you can't use it for private or personal meeting notes though!
+{% endhint %}
