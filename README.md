@@ -1,4 +1,8 @@
-# 회의록 템플릿
+---
+description: 회의록 설명
+---
+
+# 회의록
 
 Keep your company's or teams' meeting notes in one place. Indexable, searchable and deep-linkable (yes, that's a word).
 

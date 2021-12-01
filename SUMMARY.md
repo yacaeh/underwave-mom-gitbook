@@ -1,19 +1,18 @@
 # Table of contents
 
-* [회의록 템플릿](README.md)
+* [회의록](README.md)
 
-## Daily Syncs
+## 일간업데이트 <a href="#daily" id="daily"></a>
 
-* [Design Standups](daily-syncs/design-standups/README.md)
-  * [September 2021](daily-syncs/design-standups/september-2021/README.md)
-    * [Week 1 (6 - 10 Sept)](daily-syncs/design-standups/september-2021/week-1-6-10-sept.md)
+* [2021년 11월](daily/2021-11/README.md)
+  * [Week 4 ( 11/29 - 12/3 )](daily/2021-11/week-4-11-29-12-3.md)
 
-## Weekly Syncs
+## 주간 업데이트
 
-* [Company Weeklies](weekly-syncs/company-weeklies/README.md)
-  * [1st September 2021](weekly-syncs/company-weeklies/1st-september-2021.md)
+* [Company Weeklies](undefined-1/company-weeklies/README.md)
+  * [1st September 2021](undefined-1/company-weeklies/1st-september-2021.md)
 
-## Other Regulars
+## 템플릿 목록
 
-* [Company Weeklies](other-regulars/company-weeklies/README.md)
-  * [September 14th 2021](other-regulars/company-weeklies/september-14th-2021.md)
+* [Company Weeklies](undefined-2/company-weeklies/README.md)
+  * [September 14th 2021](undefined-2/company-weeklies/september-14th-2021.md)
